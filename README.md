@@ -1,5 +1,5 @@
 # Ebay-Used-Car-Sales-Analysis-Onyx-Data-Challenge-Mar-24
-## Created & Analyzed by Saddam Ansari @Aspirirng Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
+## Created & Analyzed by Saddam Ansari @Aspiring Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
 ### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/ebay-used-car-analysis--onyx-data-challenge-by--saddam-ansari)
 
 ## Objective:
