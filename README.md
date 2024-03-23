@@ -2,6 +2,19 @@
 ## Created & Analyzed by Saddam Ansari @Aspiring Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
 ### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/ebay-used-car-analysis--onyx-data-challenge-by--saddam-ansari)
 
+#
+### Table of Content
+ 1. [Objective](#objective)
+ 2. [Dataset Overview](#dataset-overview)
+ 3. [Data Preparation or Cleaning Step](#data-preparation-or-cleaning-step-)
+ 4. [Dashboard Overview](#dashboard-overview)
+ 5. [Page One (Home)](#page-one-overviewhome)
+ 6. [Second Page](#page-two-insight--optional)
+ 7. [Third Page](#page-three-tabular-detailed-view--optional)
+ 8. [Conclusion](#conclusion)
+ 9. [End](#the-end)
+
+
 ## Objective:
 The objective of the **Onyx Data Challenge** in March was to analyze the ****eBay used car sales dataset**** from **Germany** spanning from **1960 to 2020**. The aim was to derive insightful insights that would benefit stakeholders. 
 
