@@ -20,6 +20,8 @@ The objective of the **Onyx Data Challenge** in March was to analyze the ****eBa
 
 By meticulously examining the data, the challenge sought to answer key questions such as the most purchased car brands, the states with the highest car purchases, and the optimal months for buying cars.
 
+[Home](#table-of-content)
+
 ## Dataset Overview:
 
 The dataset provided for this project consisted of used car sales data from various states in **Germany** spanning the years 1960 to 2020. It comprised **371,000 rows**, each containing a multitude of attributes related to the vehicles and their transactions.
@@ -46,6 +48,8 @@ The dataset provided for this project consisted of used car sales data from vari
 |Latitude:| Geographic coordinate representing the north-south position.|
 |Longitude: |Geographic coordinate representing the east-west position.|
 
+[Home](#table-of-content)
+
 ## Data Preparation or Cleaning Step-
 
 During the data preparation phase for this project, it was observed that the dataset contained several blank or null values in character-type data fields. 
@@ -60,12 +64,15 @@ During the data preparation phase for this project, it was observed that the dat
 For calculating the average age of cars, I used a field named "New Year of Registration" and extracted the year from it by subtracting it from 01/01/2020. This allowed me to determine the age of each car accurately.
 
 #
+[Home](#table-of-content)
 
 ## Dashboard Overview
 
 The Power BI dashboard for this project is structured into three distinct pages to effectively address the project's requirements. Each page serves a specific purpose, with the first page focusing on addressing all the required and requested questions, while the second and third pages delve into optional but important analyses.
 
 #
+
+[Home](#table-of-content)
 
 # Page One: Overview/Home
 
@@ -91,6 +98,8 @@ Based on insights derived from the visualization, it is evident that **North Rhi
 ### Sales by Seller and Offer Type:
 two donut charts provide insights into car sales categorized by seller type and offer type.
 
+[Home](#table-of-content)
+
 #### Sales by Seller Type:
 The donut chart representing sales by seller type reveals that:
 
@@ -103,6 +112,7 @@ The donut chart illustrating sales by offer type demonstrates that:
  * Merely 12 car sales resulted from sales requests, indicating a relatively low volume of transactions initiated by buyers' requests.
  * Conversely, the overwhelming majority of sales were initiated through other types of offers, highlighting the prevalence of fixed-price listings or auctions as the primary means of selling cars in the dataset.
 
+[Home](#table-of-content)
 
 ### Sales by Gearbox Type:
 The stacked bar chart showcases the distribution of car sales based on gearbox type:
@@ -116,6 +126,8 @@ The stacked bar chart illustrates the breakdown of car sales by ABTest type:
 
  * About 8.16% of car sales were attributed to the control test group, indicating a relatively smaller proportion of sales from this segment.
  * Notably, a substantial portion of car sales, accounting for approximately 51.84% of the total, originated from the ABTest group, indicating the significant impact of ABTest on sales.
+
+[Home](#table-of-content)
 
 ### Car Sales by Damage Repaired or Not:
 The stacked bar chart presents car sales categorized by whether damage was repaired or not:
@@ -131,6 +143,8 @@ The visualization presents the number of cars sold each year, allowing for a com
  * The year 2020 witnessed a surge in sales, with 25k units sold, marking it as one of the peak sales years in the dataset.
  * Similarly, in 2005, car sales amounted to 22k units, reflecting another notable year for sales volume.
 
+[Home](#table-of-content)
+
 ### Sales by Month:
 Users can explore the monthly distribution of car sales to identify peak periods of sales activity.
 
@@ -140,6 +154,8 @@ Users can explore the monthly distribution of car sales to identify peak periods
 
 #
 
+[Home](#table-of-content)
+
 ### Sales by Brand:
 The visualization provides insights into car sales categorized by brand, allowing stakeholders to understand the market share and popularity of different car manufacturers over the entire period.
 
@@ -147,6 +163,8 @@ The visualization provides insights into car sales categorized by brand, allowin
  * Volkswagen emerged as the leading brand in terms of sales, with a total of 80k units sold, representing approximately 21.43% of the total sales volume.
  * BMW secured the second position, with 40k units sold, accounting for 10% of the total sales.
  * Opel also achieved significant sales, matching BMW with 40k units sold, constituting another 10% of the total sales volume.
+
+[Home](#table-of-content)
 
 #### Analysis:
  * The top three car brands, namely Volkswagen, BMW, and Opel, collectively accounted for 40% of the total sales volume.
@@ -157,11 +175,15 @@ The visualization provides insights into car sales categorized by brand, allowin
 ### Car Sales by Vehicle Type:
 The visualization presents car sales categorized by vehicle type, offering insights into the popularity and distribution of different vehicle categories over the entire dataset period.
 
+[Home](#table-of-content)
+
 ### Top Selling Vehicle Type:
  * Limousine emerged as the most popular vehicle type, with a total of 96k units sold throughout the dataset period.
  * This accounts for a significant portion of the total sales volume, constituting approximately 25% of all car sales.
 
 #
+
+[Home](#table-of-content)
 
 # Page Two: Insight / Optional
 
@@ -173,6 +195,8 @@ Page 2 of the dashboard offers optional but insightful analyses that provide val
  * Clustered bar chart showcasing the distribution of car sales by fuel type.
 
  * **Insights:** Benzine fuel type vehicles recorded the highest sales, with 224k cars sold, representing 60% of the total car sales.
+
+[Home](#table-of-content)
 
 ### 2. Top 10 Models by Number of Cars Sold:
  * Clustered column chart displaying the top 10 models based on the number of cars sold.
@@ -190,6 +214,8 @@ Page 2 of the dashboard offers optional but insightful analyses that provide val
 
  * **Insights:** Volkswagen had the highest number of cars sold with a price of 0, totaling 2601 units, representing 0.70% of the total.
 
+[Home](#table-of-content)
+
 ### Additional Insights:
 Clustered bar charts illustrating how fuel type, vehicle type, and brand affect the average price of cars.
 
@@ -201,6 +227,8 @@ Clustered bar charts illustrating how fuel type, vehicle type, and brand affect 
 
 #
 
+[Home](#table-of-content)
+
 # Page Three: Tabular detailed View / Optional
 
 ![asdrf](https://github.com/user-saddam123/Ebay-Used-Car-Sales-Analysis-Onyx-Data-Challenge-Mar-24/assets/123800896/6b44aa01-f036-47bc-bc01-5921bb779c50)
@@ -210,6 +238,8 @@ Clustered bar charts illustrating how fuel type, vehicle type, and brand affect 
  * Users can utilize filters to tailor the data view according to their specific criteria, enabling them to delve deeper into the dataset and extract valuable information as per their requirements.
 
 #
+
+[Home](#table-of-content)
 
 ## Conclusion
 An analysis of eBay used car sales in Germany from 1960 to 2020 revealed valuable insights for stakeholders. Here are the key takeaways:
@@ -237,3 +267,4 @@ Saddam Ansari @Aspiring Data Analyst [LinkedIn Link](https://www.linkedin.com/in
 Location: India
 
 ### THE END
+[Home](#table-of-content)
