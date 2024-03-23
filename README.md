@@ -198,16 +198,29 @@ Clustered bar charts illustrating how fuel type, vehicle type, and brand affect 
 
 #
 
+## Conclusion
+An analysis of eBay used car sales in Germany from 1960 to 2020 revealed valuable insights for stakeholders. Here are the key takeaways:
 
+ * **Popular brands and vehicle types:** Volkswagen, BMW, and Opel dominated sales, while limousines were the most popular vehicle type.
 
+ * **Sales trends:** March and June witnessed peak sales, while 1999, 2005, and 2020 saw the highest annual sales volume.
 
-
-
-
-
-
-
+ * **Seller activity:** Private sellers were the primary source of cars, with minimal commercial activity.
 
 #
 
+#### This project is the result of over 9 days of hard work, and I invite you to 👍 like, share, and connect with me on LinkedIn. [LinkedIn Link](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
 
+I hope scrolling through this project provides you with insightful understanding.
+
+Thank you for taking the time to view my project.
+
+#
+
+Created and Presented by-
+
+Saddam Ansari @Aspiring Data Analyst [LinkedIn Link](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
+
+Location: India
+
+### THE END
