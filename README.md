@@ -52,7 +52,7 @@ The dataset provided for this project consisted of used car sales data from vari
 
 ## Data Preparation or Cleaning Step-
 
-During the data preparation phase for this project, it was observed that the dataset contained several blank or null values in character-type data fields. 
+During the data preparation phase for this project, it was observed that the dataset contained several blank or null values in character-type data fields.
 
  * These missing values were replaced with **'Undefined'** to ensure consistency and completeness in the dataset.
 
