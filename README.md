@@ -2,6 +2,9 @@
 ## Created & Analyzed by Saddam Ansari @Aspiring Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
 ### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/ebay-used-car-analysis--onyx-data-challenge-by--saddam-ansari)
 
+## Live dashboard at novypro [Link](https://www.novypro.com/project/argentina-national-fuel-market-analysis---fp20-analytics-challenge-by--saddam-ansari)
+
+## Live dashboard at novypro webpage style [Link](https://www.novypro.com/project/argentina-nation-fuel-market-analysis-web-page-style-fp20-analytics-challenge-by--saddam-ansari)
 #
 ### Table of Content
  1. [Objective](#objective)
